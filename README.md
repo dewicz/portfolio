@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+to deploy, put the homepage address in package.json
+then run npm run build
+there will be a build folder
+compress it
+can use the build.zip folder
+upload that into the hosting page
+can install ssl cert on hostinger apparently
+will look into that as we're hosting on github
